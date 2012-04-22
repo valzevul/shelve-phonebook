@@ -1,1 +1,1 @@
-Example of phonebook using shelve
+Example of phonebook using python-shelve, which can add and delete numbers, searching them by name or phone and saving as a shelve-database.
